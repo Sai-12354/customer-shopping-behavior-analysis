@@ -25,6 +25,9 @@ Customer shopping dataset containing around 3900 records with features such as a
 - Evaluated product ratings and customer satisfaction
 - Visualized customer behavior trends
 
+- ## Dashboard Preview
+![Dashboard](dashboard_preview.png)
+
 ## Author
 Sai Pavan Amera
 Master's in Computer Science – Florida Atlantic University
